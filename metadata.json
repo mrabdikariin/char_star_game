@@ -1,0 +1,5 @@
+{
+  "name": "CHAR STAR Game",
+  "description": "A 1-on-1 offline strategy board game where players aim to align their three pieces in a row. The game involves a placement phase and a movement phase, offering simple yet engaging tactical gameplay.",
+  "requestFramePermissions": []
+}
